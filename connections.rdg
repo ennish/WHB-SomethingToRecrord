@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RDCMan programVersion="2.93" schemaVersion="3">
+  <file>
+    <credentialsProfiles />
+    <properties>
+      <expanded>True</expanded>
+      <name>connections</name>
+    </properties>
+    <group>
+      <properties>
+        <expanded>True</expanded>
+        <name>Ematch</name>
+      </properties>
+      <server>
+        <properties>
+          <displayName>66</displayName>
+          <name>183.7.17.172</name>
+        </properties>
+        <logonCredentials inherit="None">
+          <profileName scope="Local">Custom</profileName>
+          <userName>staff25tw</userName>
+          <password>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA7lgvGpRDtE+etc8RigggNQAAAAACAAAAAAAQZgAAAAEAACAAAAAyrBSzT/9e+LSSZUFHmTyoDjL3GhJJjyPhXu0gwSxIsgAAAAAOgAAAAAIAACAAAABwPFUDv/yWRsDVeStdbRzxdWSIRqRTKeYGEAAIDLT42yAAAAA6CoKzq5dlEAr2Xf8gkOFxsvFCLto4+X1qfYp8mIRT80AAAAD6m5M9M0EtF5lEElfslt14wEx7iTqj44gVqILaN88hJ/2dCPA69QdebHRf+akUU6USf67D32iGe9zw39e1yt8W</password>
+          <domain>ENNIO</domain>
+        </logonCredentials>
+        <connectionSettings inherit="None">
+          <connectToConsole>False</connectToConsole>
+          <startProgram />
+          <workingDir />
+          <port>4466</port>
+          <loadBalanceInfo />
+        </connectionSettings>
+      </server>
+    </group>
+  </file>
+  <connected />
+  <favorites />
+  <recentlyUsed />
+</RDCMan>
